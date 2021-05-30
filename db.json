@@ -1,0 +1,64 @@
+{
+  "scripts": [
+    {
+      "script": "AADR",
+      "quantity": 430,
+      "price": "$50.30",
+      "averagecost": "$41.75",
+      "investedamount": "$17,952.07",
+      "portfolio": 22.06,
+      "unrealizedpl": "$3,676.93",
+      "return": "20.48%"
+    },
+    {
+      "script": "MFEM",
+      "quantity": 210,
+      "price": "$23.20",
+      "averagecost": "$22.50",
+      "investedamount": "$4,725.84",
+      "portfolio": 5.81,
+      "unrealizedpl": "$146.16",
+      "return": "3.09%"
+    },
+    {
+      "script": "JPEM",
+      "quantity": 328,
+      "price": "$52.50",
+      "averagecost": "$56.70",
+      "investedamount": "$18,597.60",
+      "portfolio": 22.86,
+      "unrealizedpl": "-$1,377.60",
+      "return": "-7.41%"
+    },
+    {
+      "script": "KEMQ",
+      "quantity": 801,
+      "price": "$20.40",
+      "averagecost": "$22.24",
+      "investedamount": "$17,811.04",
+      "portfolio": 21.89,
+      "unrealizedpl": "-$1,470.64",
+      "return": "-8.26%"
+    },
+    {
+      "script": "KLDW",
+      "quantity": 523,
+      "price": "$32.90",
+      "averagecost": "$26.32",
+      "investedamount": "$13,765.36",
+      "portfolio": 16.92,
+      "unrealizedpl": "$3441.34",
+      "return": "25.00%"
+    },
+    {
+      "script": "KOIN",
+      "quantity": 335,
+      "price": "$25.40",
+      "averagecost": "$25.40",
+      "investedamount": "$8,509.00",
+      "portfolio": 10.46,
+      "unrealizedpl": "$-",
+      "return": "0.00%"
+    }
+  ]
+}
