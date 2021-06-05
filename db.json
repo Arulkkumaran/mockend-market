@@ -1,5 +1,5 @@
 {
-  "scripts": [
+  "scrips": [
     {
       "script": "AADR",
       "quantity": 430,
@@ -8,7 +8,8 @@
       "investedamount": 17952.07,
       "portfolio": 22.06,
       "unrealizedpl": 3676.93,
-      "return": 20.48
+      "return": 20.48,
+      "pricing": "$"
     },
     {
       "script": "MFEM",
@@ -18,7 +19,8 @@
       "investedamount": 4725.84,
       "portfolio": 5.81,
       "unrealizedpl": 146.16,
-      "return": 3.09
+      "return": 3.09,
+      "pricing": "$"
     },
     {
       "script": "JPEM",
@@ -28,7 +30,8 @@
       "investedamount": 18597.60,
       "portfolio": 22.86,
       "unrealizedpl": -1377.60,
-      "return": -7.41
+      "return": -7.41,
+      "pricing": "$"
     },
     {
       "script": "KEMQ",
@@ -38,7 +41,8 @@
       "investedamount": 17811.04,
       "portfolio": 21.89,
       "unrealizedpl": -1470.64,
-      "return": -8.26
+      "return": -8.26,
+      "pricing": "$"
     },
     {
       "script": "KLDW",
@@ -48,7 +52,8 @@
       "investedamount": 13765.36,
       "portfolio": 16.92,
       "unrealizedpl": 3441.34,
-      "return": 25.00
+      "return": 25.00,
+      "pricing": "$"
     },
     {
       "script": "KOIN",
@@ -58,8 +63,8 @@
       "investedamount": 8509.00,
       "portfolio": 10.46,
       "unrealizedpl": -0,
-      "return": 0.00
+      "return": 0.00,
+      "pricing": "$"
     }
-  ],
-  "pricing": "$"
+  ]
 }
